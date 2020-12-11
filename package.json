@@ -1,0 +1,8 @@
+{
+  "name": "aca-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/empiric-technology-solutions/aca-world.git",
+  "author": "BBoBBG <github@empirictechs.com>",
+  "license": "MIT"
+}
